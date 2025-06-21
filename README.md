@@ -32,7 +32,8 @@ dconf load /org/gnome/shell/extensions/ < some-file.txt
 
 # Dotfiles 
 All the dotfiles are managed in the following repo:
-https://github.com/MarlonRiv/dotfiles
+> [!IMPORTANT]
+> https://github.com/MarlonRiv/dotfiles
 
 This repo is being mantained using [Chezmoi](https://github.com/twpayne/chezmoi) tool, that helps to manage personal configuration files (dotfiles, like ~/.gitconfig) across multiple machines.
 
