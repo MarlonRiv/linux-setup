@@ -62,7 +62,7 @@ You can have a clean way of installing packages with HomeBrew, as it installs pa
     
 - [Nvim LSP Config](https://github.com/neovim/nvim-lspconfig): A package that contains configs for LSP servers and neovim. It essentially handles the communication between Neovim's LSP client and LSP servers
 
-- [LazyGit](
+- [LazyGit](https://github.com/jesseduffield/lazygit): A simple terminal UI for git.
 
 # Tmux
 - Tmux plugin manager [TPM](https://github.com/tmux-plugins/tpm)
